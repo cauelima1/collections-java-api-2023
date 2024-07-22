@@ -1,4 +1,4 @@
-package list.operecoesBasicas;
+package list.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
