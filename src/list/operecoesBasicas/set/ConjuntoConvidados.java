@@ -1,6 +1,6 @@
-package list.operecoesBasicas;
+package list.operecoesBasicas.set;
 
-import java.util.HashMap;
+
 import java.util.HashSet;
 import java.util.Set;
 

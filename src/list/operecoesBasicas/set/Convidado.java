@@ -1,4 +1,4 @@
-package list.operecoesBasicas;
+package list.operecoesBasicas.set;
 
 import java.util.Objects;
 

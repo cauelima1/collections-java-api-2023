@@ -1,6 +1,5 @@
-package list.operecoesBasicas;
+package list.operecoesBasicas.list;
 
-import java.util.List;
 
 
 public class Item {
