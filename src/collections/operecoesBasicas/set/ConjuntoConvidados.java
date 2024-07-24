@@ -1,4 +1,4 @@
-package list.operecoesBasicas.set;
+package collections.operecoesBasicas.set;
 
 
 import java.util.HashSet;

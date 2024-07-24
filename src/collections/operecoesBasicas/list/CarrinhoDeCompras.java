@@ -1,4 +1,4 @@
-package list.operecoesBasicas.list;
+package collections.operecoesBasicas.list;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

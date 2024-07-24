@@ -1,4 +1,4 @@
-package list.operecoesBasicas.list;
+package collections.operecoesBasicas.list;
 
 
 

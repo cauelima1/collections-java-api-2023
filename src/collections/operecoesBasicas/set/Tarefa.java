@@ -1,6 +1,4 @@
-package list.operecoesBasicas.set;
-
-import java.util.Objects;
+package collections.operecoesBasicas.set;
 
 public class Tarefa {
     //atributos
