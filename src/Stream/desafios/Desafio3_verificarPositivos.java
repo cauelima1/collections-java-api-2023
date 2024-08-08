@@ -11,7 +11,7 @@ public class Desafio3_verificarPositivos {
 
         System.out.println("Verificando números positivos...");
 
-        List<Integer> numerosPositivos = new ArrayList<>();
+
 
                 numeros.stream()
                 .filter(n -> n > 0)
